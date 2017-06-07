@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;MD5-encode-violently&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../google-cloud-go" />
+      <root url="file://$PROJECT_DIR$/../ds" />
+      <root url="file://$PROJECT_DIR$/../samples" />
+      <root url="file://$PROJECT_DIR$/../Duriel" />
+      <root url="file://$PROJECT_DIR$/../acourse" />
+      <root url="file://$PROJECT_DIR$/../keyChat" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gochat" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../wechat" />
+      <root url="file://$PROJECT_DIR$/../mallServer" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../google-cloud-go" />
+      <root url="file://$PROJECT_DIR$/../ds" />
+      <root url="file://$PROJECT_DIR$/../samples" />
+      <root url="file://$PROJECT_DIR$/../Duriel" />
+      <root url="file://$PROJECT_DIR$/../acourse" />
+      <root url="file://$PROJECT_DIR$/../keyChat" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gochat" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../wechat" />
+      <root url="file://$PROJECT_DIR$/../mallServer" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
